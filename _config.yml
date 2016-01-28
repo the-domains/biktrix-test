@@ -1,7 +1,7 @@
 name: biktrix-test
 favicon: null
-layout_spectrum: 0.49358746712096035
-typography_spectrum: 0.16375850117765367
+layout_spectrum: 1
+typography_spectrum: 0.48705
 cta:
   domain: null
   bucket: null
